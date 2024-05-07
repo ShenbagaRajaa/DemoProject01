@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\.NetCoreee\\project1\\DemoLib\\DemoLib.csproj": {
-              "projectPath": "D:\\.NetCoreee\\project1\\DemoLib\\DemoLib.csproj"
+            "d:\\.NetCoreee\\project1\\DemoLib\\DemoLib.csproj": {
+              "projectPath": "d:\\.NetCoreee\\project1\\DemoLib\\DemoLib.csproj"
             }
           }
         }
